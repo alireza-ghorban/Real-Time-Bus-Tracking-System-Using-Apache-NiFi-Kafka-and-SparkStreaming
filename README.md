@@ -25,5 +25,5 @@ Follow the individual README files to set up and install each component of this 
 
 ## Usage
 
-Once you've set up all the components, you can run the PySpark streaming script to start ingesting data into your pipeline. The data will flow from MySQL to Apache NiFi, then to Kafka and Spark Streaming, and finally, it will be queried using AWS Athena and visualized in Apache Superset.
+Once you've set up all the components, you can run the PySpark streaming script to start ingesting data into your pipeline. The data will flow from Apache NiFi to MySQL, then to Kafka and Spark Streaming, and finally, it will be queried using AWS Athena and visualized in Apache Superset.
 
