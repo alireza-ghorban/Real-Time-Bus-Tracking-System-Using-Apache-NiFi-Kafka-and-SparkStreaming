@@ -94,4 +94,4 @@ Update the Superset Docker run command to include the Mapbox API key as an envir
 docker run --detach --name superset --env MAPBOX_API_KEY='<Your_Mapbox_API_Key>' -p 8088:8088 apache/superset
 ```
 
-![Superset Dashboard](superset.png)
+![Superset Dashboard](./images/superset.png)
