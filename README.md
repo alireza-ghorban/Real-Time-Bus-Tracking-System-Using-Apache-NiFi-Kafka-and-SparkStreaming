@@ -1,7 +1,7 @@
 # Real-Time Bus Tracking System Using Apache NiFi, Kafka, and Spark Streaming
 
 
-This repository contains all the necessary components for setting up a real-time bus tracking application using Apache NiFi, Apache Kafka, Spark Streaming, MySQL, CDC, Apache Superset, and AWS EC2. The primary focus for the final project is to build a real-time application that collects GPS data steamed by IoT devices located on buses. The data source used in the project is TTC bus data from open API called [Rest Bus](http://restbus.info/).
+This repository contains all the necessary components for setting up a real-time bus tracking application using Apache NiFi, Apache Kafka, Spark Streaming, MySQL, CDC, Apache Superset, and AWS EC2. The primary focus of the project is to build a real-time application that collects GPS data streamed by IoT devices located on buses. The data source used in the project is TTC bus data from an open API called [Rest Bus](http://restbus.info/).
 
 
 ![Project Architecture](./images/architecture.png)
